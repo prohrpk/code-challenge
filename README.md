@@ -33,7 +33,7 @@ This is including search by multiple criteria in the same time like search by ci
 ## Conditions
 
 - You can use any framework or tool, You also can build it all also from scratch if you like
-- Use JSON files to store data of jobs
+- Use JSON files to store data of jobs (don't use any other kind of database i.e postges, mysql etc)
 - Write full test using any test suite Jest for JS, Whatever you prefer
 - Use [codeclimate](https://codeclimate.com) or any other alternative to estimate the code quality and add it's badge to your project README file
 - Do not use any database or any full text search engines all searches should be developed manullay without using any external libraries.
