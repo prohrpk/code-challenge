@@ -11,6 +11,7 @@ The challenge must be solved in NodeJs or Javascript .
 - Search Job
 
 ## Add Job Feature
+  Add job with fields :- (all are manadatory except salary range)
 - Job title
 - City
 - Salary range
@@ -18,6 +19,7 @@ The challenge must be solved in NodeJs or Javascript .
 - End date 
 
 ## Search Job
+   Use shall be able to search jobs  using fields :-
   - Job title
   - Salary
   - City
