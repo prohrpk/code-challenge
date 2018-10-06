@@ -1,6 +1,4 @@
-![](http://www.prohrpk.com/wp-content/uploads/2016/10/ProHR-Logo.png)
-!(http://www.prohrpk.com/wp-content/uploads/2016/10/ProHR-Logo.png)
-http://www.prohrpk.com/wp-content/uploads/2016/10/ProHR-Logo.png
+![Logo](http://www.prohrpk.com/wp-content/uploads/2016/10/ProHR-Logo.png)
 ## Developer Challenge
 
 The objective of this challenge is to hit an endpoint containing the list of jobs and perform some actions on the result.
