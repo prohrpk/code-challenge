@@ -8,8 +8,8 @@ The challenge must be solved in NodeJs or Javascript .
 ## Requirements and Output
 
 #### Create a One Page Website to **allow**
-#### Add a Job
-#### Search Job
+##### Add a Job
+##### Search Job
 
 ## Add Job Feature
 - Job title
