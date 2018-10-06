@@ -1,7 +1,7 @@
 ![Logo](http://www.prohrpk.com/wp-content/uploads/2016/10/ProHR-Logo.png)
 ## Developer Challenge
 
-The objective of this challenge is to hit an endpoint containing the list of jobs and perform some actions on the result.
+This is a test for shortlisted candidates. All those qualifying the test shall be called in for an Interview. The objective of this challenge is to hit an endpoint containing the list of jobs and perform some actions on the result.
 The challenge must be solved in NodeJs or Javascript .
 
 ## Requirements and Output
@@ -19,7 +19,7 @@ The challenge must be solved in NodeJs or Javascript .
 - End date 
 
 ## Search Job
-   Use shall be able to search jobs  using fields :-
+   User shall be able to search jobs  using fields :-
   - Job title
   - Salary
   - City
@@ -34,17 +34,16 @@ This is including search by multiple criteria in the same time like search by ci
 
 ## Conditions
 
-- You can use any framework or tool, You also can build it all also from scratch if you like
+- You can use any framework or tool.
 - Use JSON files to store data of jobs (don't use any other kind of database i.e postges, mysql etc)
 - Write full test using any test suite Jest for JS, Whatever you prefer
 - Use [codeclimate](https://codeclimate.com) or any other alternative to estimate the code quality and add it's badge to your project README file
-- Do not use any database or any full text search engines all searches should be developed manullay without using any external libraries.
+- Do not use any database or any full text search engines, all searches should be developed manullay without using any external libraries.
 - If you make any assumptions, mention them clearly in the readme file
 
 ## What we are looking for
 
-- **Simple, clear, readable code** How well structured it is? Clear separation of concerns? Can anyone just look at it and get the idea to
-what is being done? Does it follow any standards?
+- **Simple, clear, readable code** How well structured it is? Clear separation of concerns? Can anyone just look at it and get the idea to what is being done? Does it follow any standards?
 - **Correctness** Does the application do what it promises? Can we find bugs or trivial flaws?
 - **Security** are there any obvious vulnerability?
 - **Memory efficiency** How will it behave in case of large datasets?
@@ -66,9 +65,9 @@ The challenge solution should be delivered as a link to a public git repository 
 Before submitting, make sure that your program
 
 - [ ] Code accompanies the Unit Tests
-- [ ] Usage is clearly mentioned in the README file, This including setup the project, how to run it, how to run unit test, examples,etc
+- [ ] Usage is clearly mentioned in the README file, This includes setup the project, how to run it, how to run unit test, examples,etc
 - [ ] Uses the endpoint directly
 
 ## Note
 
-Implementations focusing on **quality over feature completeness** will be highly appreciated, don’t feel compelled to implement everything and even if you are not able to complete the challenge, please do submit it anyways. As we are more concerned to quality of work rather than completion of task.
+Implementations focusing on **quality over feature completeness** will be highly appreciated, don’t feel compelled to implement everything and even if you are not able to complete the challenge, please do submit it anyways. As we are more concerned to gauge the quality of work rather than completion of task.
