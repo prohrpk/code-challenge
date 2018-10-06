@@ -19,7 +19,6 @@ The challenge must be solved in NodeJs or Javascript .
 - End date 
 
 ## Search Job
-  #### search by job title, city, salary range, start date, end date
   - Job title
   - Salary
   - City
